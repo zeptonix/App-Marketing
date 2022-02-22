@@ -13,9 +13,9 @@ Maps SKD für Android: https://developers.google.com/maps/documentation/android-
 Benötigte Tools: Android Studio
 
 # Custom Open Street Map (Bicycle)
-
-Eine Android App, die eine benutzerdefinierte, täglich aktualisierte Open Street Map für Fahrradnutzer auf dem Smartphone lädt. Die Open Street Map Daten von Geofabrik werden durch einen automatisierten Prozess akutell gehalten, auf das Saarland heruntergeschnitten, mit OSM Tags gefiltert und über einen FTP-Server verfügbar gestellt. Die App greift sich diese Daten und rendert sie mithilfe eines Renderthemes nach einem gewünschten Layout (hier benutzerfreundlich für Fahrradnutzer). Dieser letzte Schritt ist noch nicht vollendet und wird in naher Zukunft bearbeitet. Entscheident für die Umsetzung waren folgende Guides von Mapsforge: https://github.com/mapsforge/mapsforge.
-Standard Theme unter: https://github.com/mapsforge/mapsforge/tree/master/mapsforge-themes/src/main/resources/assets/mapsforge.
+<p>
+Eine Android App, die eine benutzerdefinierte, täglich aktualisierte Open Street Map für Fahrradnutzer auf dem Smartphone lädt. Die Open Street Map Daten von Geofabrik werden durch einen automatisierten Prozess akutell gehalten, auf das Saarland heruntergeschnitten, mit OSM Tags gefiltert und über einen FTP-Server verfügbar gestellt. Die App greift sich diese Daten und rendert sie mithilfe eines Renderthemes nach einem gewünschten Layout (hier benutzerfreundlich für Fahrradnutzer). Dieser letzte Schritt ist noch nicht vollendet und wird in naher Zukunft bearbeitet. Entscheident für die Umsetzung waren folgende Guides von Mapsforge: https://github.com/mapsforge/mapsforge. Wenn Ihr die App selbst einmal starten wollt, benötigt Ihr die saarland.map, die sich hier im Repositorie befindet und das Rendertheme, welches Ihr unter diesem Link findet: https://github.com/mapsforge/mapsforge/tree/master/mapsforge-themes/src/main/resources/assets/mapsforge und bennent es in default um. Beide Dateien müssen sich nun auf eurem Gerät auf dem Root Verzeichnis der SD-Karte befinden dann könnt ihr die App starten. 
+</p>  
 
 # Bluetooth Heart Rate App
 
