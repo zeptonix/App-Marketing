@@ -1,6 +1,14 @@
 # App-Marketing
-
+<p>
 Im Rahmen des Wahlpflichtfaches App Marketing bei Herrn Speck habe ich mich mit den folgenden Aufgaben beschäftigt:
+  </p>
+  * Google Maps - Mapping App
+  * Custom Open Street Map (Bicycle)
+  * Bluetooth Hear Rate App
+<p>
+  Für genaue Infos zur Bearbeitung der Aufgaben ist im Repositorie der Foliensatz hinterlegt. Dort finden sich Beschreiubungen zum erstellen der Apps.
+  </p>
+
 
 
 # Google Maps - Mapping App
