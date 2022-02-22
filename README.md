@@ -1,6 +1,6 @@
 # App-Marketing
 <p>
-Im Rahmen des Wahlpflichtfaches App Marketing an der Hochschule Kaiserslautern bei Herrn Speck habe ich mich mit den folgenden Aufgaben beschäftigt: Google Maps - Mapping App, Custom Open Street Map (Bicycle), Bluetooth Hear Rate App
+Im Rahmen des Wahlpflichtfaches App Marketing an der Hochschule Kaiserslautern bei Herrn Speck habe ich mich mit den folgenden Aufgaben beschäftigt: Google Maps - Mapping App, Custom Open Street Map (Bicycle), Bluetooth Hear Rate App.
   </p>
 <p>
   Für genaue Infos zur Bearbeitung der Aufgaben ist im Repositorie der Foliensatz hinterlegt. Dort finden sich Beschreiubungen zum erstellen der Apps.
