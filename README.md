@@ -1,6 +1,6 @@
 # App-Marketing
 
-Im Rahmen des Wahlpflichtfaches App Marketing habe ich mich mit den folgenden Aufgaben beschäftigt:
+Im Rahmen des Wahlpflichtfaches App Marketing bei Herrn Speck habe ich mich mit den folgenden Aufgaben beschäftigt:
 
 
 # Google Maps - Mapping App
